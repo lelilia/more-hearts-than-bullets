@@ -24,9 +24,10 @@ in this game you send love to yourt sad friends to make sad smiles happy! if the
 
 <img src="./more_hearts_screenshot.png" width="300">
 
-you move the squares with the arrow keys 
-
-pressing 'r' will reload and 'esc' will close the window
+you move your smiley with the arrow keys and send good vibes with the space bar 
 
 have fun!
 
+## links
+
+this game was also featured in [Recurse Joy of computing](https://joy.recurse.com/posts/543-more-hearts-than-bullets)
